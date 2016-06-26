@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/6/24 16:35:52。
+     1>项目“D:\Stduy\IDE\C_code\vs 代码\2016暑假工程实践项目\testlistcontrol\testlistcontrol\testlistcontrol.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\testlistcontrol.res" testlistcontrol.rc 
+       Link:
+         D:\Stduy\IDE\VS2012\VS2012program\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Stduy\IDE\C_code\vs 代码\2016暑假工程实践项目\testlistcontrol\Debug\testlistcontrol.exe" /INCREMENTAL /NOLOGO wpcap.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Stduy\IDE\C_code\vs 代码\2016暑假工程实践项目\testlistcontrol\Debug\testlistcontrol.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Stduy\IDE\C_code\vs 代码\2016暑假工程实践项目\testlistcontrol\Debug\testlistcontrol.lib" /MACHINE:X86 Debug\testlistcontrol.res
+         Debug\main.obj
+         Debug\tools.obj
+         testlistcontrol.vcxproj -> D:\Stduy\IDE\C_code\vs 代码\2016暑假工程实践项目\testlistcontrol\Debug\testlistcontrol.exe
+     1>已完成生成项目“D:\Stduy\IDE\C_code\vs 代码\2016暑假工程实践项目\testlistcontrol\testlistcontrol\testlistcontrol.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.56
